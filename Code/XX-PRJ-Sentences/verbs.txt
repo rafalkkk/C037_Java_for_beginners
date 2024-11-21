@@ -1,0 +1,10 @@
+run
+jump
+explore
+find
+eat
+climb
+swim
+play
+laugh
+hug
